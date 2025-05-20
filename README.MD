@@ -114,12 +114,24 @@ The project covers fundamental concepts of:
 3. All exploits were performed with proper authorization
 4. Security recommendations are based on industry best practices
 
-## 📚 References
+# 📚 References
 
-1. Nmap Documentation
-2. Metasploit Framework Guide
-3. OWASP Testing Guide
-4. Industry Security Standards
+This project is based on widely recognized cybersecurity tools, frameworks, and standards. Below are the key references used:
+
+1. [**Nmap Documentation**](https://nmap.org/book/man.html)  
+   Official guide for using the Nmap Security Scanner effectively for host discovery and network enumeration.
+
+2. [**Metasploit Framework Guide**](https://docs.rapid7.com/metasploit/)  
+   Complete documentation and tutorials for the Metasploit Framework used in exploit development and penetration testing.
+
+3. [**OWASP Testing Guide**](https://owasp.org/www-project-web-security-testing-guide/latest/)  
+   Industry-standard guide from OWASP for performing comprehensive web application security assessments.
+
+4. [**John the Ripper Password Cracker**](https://www.openwall.com/john/)  
+   Documentation and usage examples for John the Ripper, a fast password cracker used in security auditing.
+
+5. [**Industry Security Standards – ISO/IEC 27001**](https://www.iso.org/isoiec-27001-information-security.html)  
+   International standard for information security management systems (ISMS) providing a framework for managing sensitive data.
 
 ---
 
